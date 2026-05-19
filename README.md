@@ -1,6 +1,6 @@
 # curso_analise_de_dados
 
-##Executando o arquivo 'calculadora.sh'
+## Executando 'calculadora.sh'
 Para executar o arquivo é necessário utilizar o Ubuntu (Linux). 
 Utilizar o comando ./calculadora.sh
 
